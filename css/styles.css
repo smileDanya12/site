@@ -1,0 +1,1054 @@
+.frame {
+  background-color: #121212;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+html, body {
+  overflow-x: hidden;
+ 
+}
+.frame .div {
+  background-color: #121212;
+  width: 1440px;
+  height: 6796px;
+  position: relative;
+}
+
+.frame .overlap {
+  position: absolute;
+  width: 1440px;
+  height: 3471px;
+  top: -406px;
+  left: 0;
+}
+
+.frame .overlap-group {
+  position: absolute;
+  width: 1440px;
+  height: 3471px;
+  top: 0;
+  left: 0;
+}
+
+.frame .element {
+  position: absolute;
+  width: 1080px;
+  height: 916px;
+  top: 406px;
+  left: 197px;
+  object-fit: cover;
+}
+
+.frame .rectangle {
+  position: absolute;
+  width: 1440px;
+  height: 1350px;
+  top: 1186px;
+  left: 0;
+  background-color: #1c1c1c;
+}
+
+.frame .group {
+  position: absolute;
+  width: 959px;
+  height: 848px;
+  top: 2420px;
+  left: 188px;
+}
+
+.frame .ellipse {
+  position: absolute;
+  width: 1358px;
+  height: 1359px;
+  top: 0;
+  left: 26px;
+  border-radius: 679px/679.5px;
+  background: radial-gradient(50% 50% at 50% 50%, rgb(18.06, 18.06, 18.06) 0%, rgba(18.06, 18.06, 18.06, 0) 38.25%);
+}
+
+.frame .image {
+  position: absolute;
+  width: 958px;
+  height: 156px;
+  top: 612px;
+  left: 240px;
+}
+
+.frame .text-wrapper {
+  position: absolute;
+  top: 566px;
+  left: 582px;
+  font-family: "TT Travels-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: -1.32px;
+  line-height: 19.2px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-2 {
+  position: absolute;
+  top: 566px;
+  left: 682px;
+  font-family: "TT Travels-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: -1.32px;
+  line-height: 19.2px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-3 {
+  position: absolute;
+  top: 566px;
+  left: 826px;
+  font-family: "TT Travels-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: -1.32px;
+  line-height: 19.2px;
+  white-space: nowrap;
+}
+
+.frame .overlap-group-wrapper {
+  position: absolute;
+  width: 534px;
+  height: 68px;
+  top: 808px;
+  left: 455px;
+}
+
+.frame .overlap-group-2 {
+  position: relative;
+  width: 530px;
+  height: 68px;
+}
+
+.frame .rectangle-2 {
+  position: absolute;
+  width: 346px;
+  height: 67px;
+  top: 1px;
+  left: 0;
+  background-color: #252525;
+  border-radius: 33.5px;
+}
+
+.frame .rectangle-3 {
+  position: absolute;
+  width: 280px;
+  height: 67px;
+  top: 0;
+  left: 250px;
+  border-radius: 33.5px;
+  background: linear-gradient(180deg, rgb(169, 209, 55) 0%, rgb(67.32, 209, 55) 100%);
+}
+
+.frame .text-wrapper-4 {
+  position: absolute;
+  top: 27px;
+  left: 288px;
+  font-family: "TT Travels-DemiBold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: -0.63px;
+  line-height: 14.4px;
+  white-space: nowrap;
+}
+
+.frame .p {
+  position: absolute;
+  top: 9px;
+  left: 30px;
+  font-family: "Mulish-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: -0.99px;
+  line-height: 14.4px;
+  white-space: nowrap;
+}
+
+.frame .rectangle-4 {
+  position: absolute;
+  width: 579px;
+  height: 658px;
+  top: 1052px;
+  left: 130px;
+  background-color: #e5e1f3;
+}
+
+.frame .rectangle-5 {
+  position: absolute;
+  width: 579px;
+  height: 658px;
+  top: 1731px;
+  left: 130px;
+  background-color: #c1bab0;
+}
+
+.frame .img {
+  position: absolute;
+  width: 579px;
+  height: 658px;
+  top: 1939px;
+  left: 730px;
+  object-fit: cover;
+}
+
+.frame .img-2 {
+  width: 896px;
+  height: 825px;
+  top: 1946px;
+  object-fit: cover;
+  position: absolute;
+  left: 0;
+}
+
+.frame .rectangle-6 {
+  position: absolute;
+  width: 579px;
+  height: 658px;
+  top: 1260px;
+  left: 730px;
+  object-fit: cover;
+}
+
+.frame .element-2 {
+  position: absolute;
+  width: 491px;
+  height: 544px;
+  top: 1166px;
+  left: 174px;
+  object-fit: cover;
+}
+
+.frame .home {
+  position: absolute;
+  width: 864px;
+  height: 706px;
+  top: 1392px;
+  left: 576px;
+  object-fit: cover;
+}
+
+.frame .img-3 {
+  position: absolute;
+  width: 878px;
+  height: 770px;
+  top: 1825px;
+  left: 0;
+  object-fit: cover;
+}
+
+.frame .home-2 {
+  position: absolute;
+  width: 521px;
+  height: 330px;
+  top: 2111px;
+  left: 759px;
+  object-fit: cover;
+}
+
+.frame .rectangle-7 {
+  position: absolute;
+  width: 229px;
+  height: 356px;
+  top: 2760px;
+  left: 961px;
+  object-fit: cover;
+}
+
+.frame .rectangle-8 {
+  position: absolute;
+  width: 229px;
+  height: 356px;
+  top: 3115px;
+  left: 342px;
+  object-fit: cover;
+}
+
+.frame .image-2 {
+  position: absolute;
+  width: 849px;
+  height: 223px;
+  top: 2993px;
+  left: 295px;
+}
+
+.frame .element-3 {
+  position: absolute;
+  width: 802px;
+  top: 3255px;
+  left: 319px;
+  font-family: "TT Travels-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: -0.09px;
+  line-height: 27.7px;
+}
+
+.frame .span {
+  font-family: "TT Travels-Italic", Helvetica;
+  font-style: italic;
+}
+
+.frame .text-wrapper-5 {
+  font-family: "TT Travels-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.frame .frame-default {
+  position: absolute;
+  width: 1440px;
+  height: 110px;
+  top: 406px;
+  left: 0;
+  background-color: #121212;
+}
+
+.frame .group-2 {
+  position: absolute;
+  width: 51px;
+  height: 46px;
+  top: 32px;
+  left: 694px;
+}
+
+.frame .YUDAEV-BRANDING {
+  position: absolute;
+  top: 49px;
+  left: 130px;
+  font-family: "Druk Wide-Bold", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 14px;
+  letter-spacing: -0.77px;
+  line-height: 11.2px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-6 {
+  font-family: "Druk Wide-BoldItalic", Helvetica;
+  font-style: italic;
+  color: #a8cf36;
+}
+
+.frame .text-wrapper-7 {
+  font-family: "Druk Wide-BoldItalic", Helvetica;
+  font-style: italic;
+  color: #ffffff;
+}
+
+.frame .text-wrapper-8 {
+  position: absolute;
+  top: 49px;
+  left: 1101px;
+  font-family: "Druk Wide-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: -0.77px;
+  line-height: 11.2px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-9 {
+  position: absolute;
+  top: 49px;
+  left: 1201px;
+  font-family: "Druk Wide-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #a8cf36;
+  font-size: 14px;
+  letter-spacing: -0.77px;
+  line-height: 11.2px;
+  white-space: nowrap;
+}
+
+.frame .ic-baseline-mode-wrapper {
+  position: absolute;
+  width: 19px;
+  height: 19px;
+  top: 46px;
+  left: 950px;
+  border-radius: 9.5px;
+  border: 1px solid;
+  border-color: #a8cf36;
+}
+
+.frame .ic-baseline-mode {
+  position: absolute;
+  width: 14px;
+  height: 14px;
+  top: 2px;
+  left: 2px;
+}
+
+.frame .akar-icons-sun-fill-wrapper {
+  position: absolute;
+  width: 19px;
+  height: 19px;
+  top: 46px;
+  left: 977px;
+  background-color: #303030;
+  border-radius: 9.5px;
+}
+
+.frame .akar-icons-sun-fill {
+  position: absolute;
+  width: 11px;
+  height: 11px;
+  top: 4px;
+  left: 4px;
+}
+
+.frame .div-wrapper {
+  position: absolute;
+  width: 293px;
+  height: 57px;
+  top: 3413px;
+  left: 668px;
+  border-radius: 33.5px;
+  background: linear-gradient(180deg, rgb(169, 209, 55) 0%, rgb(67.32, 209, 55) 100%);
+}
+
+.frame .text-wrapper-10 {
+  position: absolute;
+  width: 233px;
+  top: 22px;
+  left: 30px;
+  font-family: "TT Travels-DemiBold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: -0.63px;
+  line-height: 14.4px;
+  white-space: nowrap;
+}
+
+.frame .overlap-2 {
+  position: absolute;
+  width: 1367px;
+  height: 1508px;
+  top: 3231px;
+  left: 60px;
+}
+
+.frame .overlap-3 {
+  position: absolute;
+  width: 1367px;
+  height: 1508px;
+  top: 0;
+  left: 0;
+}
+
+.frame .text-wrapper-11 {
+  position: absolute;
+  top: 971px;
+  left: 416px;
+  transform: rotate(42.2deg);
+  font-family: "Urban Starblues Demo-Regular", Helvetica;
+  font-weight: 400;
+  color: #1b1b1b;
+  font-size: 288px;
+  text-align: center;
+  letter-spacing: 14.4px;
+  line-height: 230.4px;
+  white-space: nowrap;
+}
+
+.frame .rectangle-9 {
+  position: absolute;
+  width: 650px;
+  height: 904px;
+  top: 285px;
+  left: 0;
+  object-fit: cover;
+}
+
+.frame .rectangle-10 {
+  position: absolute;
+  width: 462px;
+  height: 658px;
+  top: 229px;
+  left: 94px;
+}
+
+.frame .text-wrapper-12 {
+  position: absolute;
+  top: 306px;
+  left: 184px;
+  -webkit-text-stroke: 1px #000000;
+  font-family: "TT Travels-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: transparent;
+  font-size: 96px;
+  text-align: center;
+  letter-spacing: -5.28px;
+  line-height: 76.8px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-13 {
+  position: absolute;
+  top: 383px;
+  left: 136px;
+  font-family: "TT Travels-ExtraBoldItalic", Helvetica;
+  font-weight: 800;
+  font-style: italic;
+  color: #000000;
+  font-size: 96px;
+  text-align: center;
+  letter-spacing: -5.28px;
+  line-height: 76.8px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-14 {
+  position: absolute;
+  top: 519px;
+  left: 140px;
+  font-family: "TT Travels-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000b2;
+  font-size: 18px;
+  letter-spacing: -0.09px;
+  line-height: 27.7px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-15 {
+  position: absolute;
+  top: 554px;
+  left: 140px;
+  font-family: "TT Travels-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000b2;
+  font-size: 18px;
+  letter-spacing: -0.09px;
+  line-height: 27.7px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-16 {
+  position: absolute;
+  top: 589px;
+  left: 140px;
+  font-family: "TT Travels-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000b2;
+  font-size: 18px;
+  letter-spacing: -0.09px;
+  line-height: 27.7px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-17 {
+  position: absolute;
+  top: 624px;
+  left: 140px;
+  font-family: "TT Travels-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000b2;
+  font-size: 18px;
+  letter-spacing: -0.09px;
+  line-height: 27.7px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-18 {
+  position: absolute;
+  top: 659px;
+  left: 140px;
+  font-family: "TT Travels-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000b2;
+  font-size: 18px;
+  letter-spacing: -0.09px;
+  line-height: 27.7px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-19 {
+  position: absolute;
+  top: 694px;
+  left: 140px;
+  font-family: "TT Travels-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000b2;
+  font-size: 18px;
+  letter-spacing: -0.09px;
+  line-height: 27.7px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-20 {
+  position: absolute;
+  top: 729px;
+  left: 140px;
+  font-family: "TT Travels-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000b2;
+  font-size: 18px;
+  letter-spacing: -0.09px;
+  line-height: 27.7px;
+  white-space: nowrap;
+}
+
+.frame .group-3 {
+  position: absolute;
+  width: 356px;
+  height: 319px;
+  top: 0;
+  left: 117px;
+}
+
+.frame .overlap-4 {
+  position: absolute;
+  width: 650px;
+  height: 620px;
+  top: 103px;
+  left: 670px;
+}
+
+.frame .rectangle-11 {
+  position: absolute;
+  width: 650px;
+  height: 564px;
+  top: 56px;
+  left: 0;
+  object-fit: cover;
+}
+
+.frame .rectangle-12 {
+  position: absolute;
+  width: 462px;
+  height: 490px;
+  top: 0;
+  left: 94px;
+}
+
+.frame .text-wrapper-21 {
+  position: absolute;
+  top: 77px;
+  left: 169px;
+  -webkit-text-stroke: 1px #ffffff;
+  font-family: "TT Travels-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: transparent;
+  font-size: 96px;
+  text-align: center;
+  letter-spacing: -5.28px;
+  line-height: 76.8px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-22 {
+  position: absolute;
+  top: 154px;
+  left: 137px;
+  font-family: "TT Travels-ExtraBoldItalic", Helvetica;
+  font-weight: 800;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 96px;
+  text-align: center;
+  letter-spacing: -5.28px;
+  line-height: 76.8px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-23 {
+  position: absolute;
+  top: 290px;
+  left: 140px;
+  font-family: "TT Travels-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: -0.09px;
+  line-height: 27.7px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-24 {
+  position: absolute;
+  top: 325px;
+  left: 140px;
+  font-family: "TT Travels-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: -0.09px;
+  line-height: 27.7px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-25 {
+  position: absolute;
+  top: 360px;
+  left: 140px;
+  font-family: "TT Travels-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: -0.09px;
+  line-height: 27.7px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-26 {
+  position: absolute;
+  top: 395px;
+  left: 140px;
+  font-family: "TT Travels-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: -0.09px;
+  line-height: 27.7px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-27 {
+  position: absolute;
+  top: 1298px;
+  left: 89px;
+  font-family: "TT Travels-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 96px;
+  text-align: center;
+  letter-spacing: -5.28px;
+  line-height: 76.8px;
+  white-space: nowrap;
+}
+
+.frame .ellipse-2 {
+  position: absolute;
+  width: 280px;
+  height: 280px;
+  top: 4774px;
+  left: 130px;
+  object-fit: cover;
+}
+
+.frame .ellipse-3 {
+  position: absolute;
+  width: 280px;
+  height: 280px;
+  top: 5074px;
+  left: 130px;
+  object-fit: cover;
+}
+
+.frame .ellipse-4 {
+  position: absolute;
+  width: 280px;
+  height: 280px;
+  top: 4774px;
+  left: 430px;
+  object-fit: cover;
+}
+
+.frame .ellipse-5 {
+  position: absolute;
+  width: 280px;
+  height: 280px;
+  top: 5074px;
+  left: 430px;
+  object-fit: cover;
+}
+
+.frame .ellipse-6 {
+  position: absolute;
+  width: 280px;
+  height: 280px;
+  top: 4774px;
+  left: 730px;
+  object-fit: cover;
+}
+
+.frame .ellipse-7 {
+  position: absolute;
+  width: 280px;
+  height: 280px;
+  top: 5074px;
+  left: 730px;
+  object-fit: cover;
+}
+
+.frame .ellipse-8 {
+  position: absolute;
+  width: 280px;
+  height: 280px;
+  top: 4774px;
+  left: 1030px;
+  object-fit: cover;
+}
+
+.frame .ellipse-9 {
+  position: absolute;
+  width: 280px;
+  height: 280px;
+  top: 5074px;
+  left: 1030px;
+  object-fit: cover;
+}
+
+.frame .overlap-5 {
+  position: absolute;
+  width: 1440px;
+  height: 965px;
+  top: 5688px;
+  left: 0;
+  background-color: #f2f1f6;
+}
+
+.frame .overlap-6 {
+  position: absolute;
+  width: 1320px;
+  height: 830px;
+  top: 132px;
+  left: 120px;
+}
+
+.frame .overlap-7 {
+  position: absolute;
+  width: 1320px;
+  height: 830px;
+  top: 0;
+  left: 0;
+}
+
+.frame .text-wrapper-28 {
+  position: absolute;
+  width: 1110px;
+  top: 39px;
+  left: 0;
+  font-family: "TT Travels-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #aad554;
+  font-size: 144px;
+  letter-spacing: -7.92px;
+  line-height: 115.2px;
+}
+
+.frame .img-4 {
+  position: absolute;
+  width: 625px;
+  height: 830px;
+  top: 0;
+  left: 695px;
+}
+
+.frame .overlap-8 {
+  position: absolute;
+  width: 650px;
+  height: 415px;
+  top: 319px;
+  left: 10px;
+}
+
+.frame .text-wrapper-29 {
+  position: absolute;
+  width: 650px;
+  top: 0;
+  left: 0;
+  font-family: "TT Travels-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #4a4a4a;
+  font-size: 18px;
+  letter-spacing: -0.09px;
+  line-height: 27.7px;
+}
+
+.frame .group-4 {
+  position: absolute;
+  width: 342px;
+  height: 303px;
+  top: 112px;
+  left: 14px;
+}
+
+.frame .text-wrapper-30 {
+  position: absolute;
+  top: 93px;
+  left: 131px;
+  font-family: "TT Travels-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #4a4a4a;
+  font-size: 18px;
+  letter-spacing: -0.09px;
+  line-height: 27.7px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-31 {
+  position: absolute;
+  top: 93px;
+  left: 296px;
+  font-family: "TT Travels-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #4a4a4a;
+  font-size: 18px;
+  letter-spacing: -0.09px;
+  line-height: 27.7px;
+  white-space: nowrap;
+}
+
+.frame .overlap-wrapper {
+  position: absolute;
+  width: 1440px;
+  height: 143px;
+  top: 6653px;
+  left: 0;
+}
+
+.frame .overlap-9 {
+  position: relative;
+  height: 143px;
+}
+
+.frame .div-wrapper-2 {
+  width: 1440px;
+  height: 143px;
+  top: 0;
+  background-color: #121212;
+  position: absolute;
+  left: 0;
+}
+
+.frame .text-wrapper-32 {
+  position: absolute;
+  top: 32px;
+  left: 66px;
+  font-family: "Druk Wide-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #242424;
+  font-size: 96px;
+  letter-spacing: -5.28px;
+  line-height: 76.8px;
+  white-space: nowrap;
+}
+
+.frame .group-5 {
+  position: absolute;
+  width: 51px;
+  height: 46px;
+  top: 51px;
+  left: 126px;
+}
+
+.frame .ellipse-wrapper {
+  position: relative;
+  width: 44px;
+  height: 37px;
+  top: 4px;
+  left: 4px;
+  background-image: url(./img/ellipse-8.svg);
+  background-size: 100% 100%;
+}
+
+.frame .ellipse-10 {
+  position: absolute;
+  width: 44px;
+  height: 37px;
+  top: 0;
+  left: 0;
+}
+
+.frame .text-wrapper-33 {
+  position: absolute;
+  top: 66px;
+  left: 1032px;
+  font-family: "TT Travels-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #7d7d7d;
+  font-size: 14px;
+  letter-spacing: -0.77px;
+  line-height: 11.2px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-34 {
+  position: absolute;
+  top: 66px;
+  left: 793px;
+  font-family: "TT Travels-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #7d7d7d;
+  font-size: 14px;
+  letter-spacing: -0.77px;
+  line-height: 11.2px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-35 {
+  position: absolute;
+  top: 66px;
+  left: 1135px;
+  font-family: "TT Travels-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #7d7d7d;
+  font-size: 14px;
+  letter-spacing: -0.77px;
+  line-height: 11.2px;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-36 {
+  position: absolute;
+  top: 66px;
+  left: 1235px;
+  font-family: "TT Travels-BoldItalic", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #7d7d7d;
+  font-size: 14px;
+  letter-spacing: -0.77px;
+  line-height: 11.2px;
+  white-space: nowrap;
+}
+.frame .text-wrapper-31 {
+  position: absolute;
+  top: 40px;
+  left: 225px;
+  font-family: "TT Travels-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #4a4a4a;
+  font-size: 18px;
+  letter-spacing: -0.09px;
+  line-height: 27.7px;
+  white-space: nowrap;
+}

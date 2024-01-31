@@ -1,0 +1,1639 @@
+@media screen and (max-width:768px) {
+
+    .frame .YUDAEV-BRANDING {
+        position: absolute;
+        top: 49px;
+        left: 130px;
+        font-family: "Druk Wide-Bold", Helvetica;
+        font-weight: 700;
+        color: transparent;
+        font-size: 14px;
+        letter-spacing: -0.77px;
+        line-height: 11.2px;
+        white-space: nowrap;
+    }
+
+    .frame .text-wrapper-4 {
+        position: absolute;
+        top: 27px;
+        left: 122px;
+        font-family: "TT Travels-DemiBold", Helvetica;
+        font-weight: 700;
+        color: #000000;
+        font-size: 18px;
+        text-align: center;
+        letter-spacing: -0.63px;
+        line-height: 14.4px;
+        white-space: nowrap;
+    }
+
+    .frame .YUDAEV-BRANDING {
+        position: absolute;
+        top: 18px;
+        left: 34px;
+        font-family: "Druk Wide-Bold", Helvetica;
+        font-weight: 700;
+        color: transparent;
+        font-size: 14px;
+        letter-spacing: -0.77px;
+        line-height: 11.2px;
+        white-space: nowrap;
+    }
+
+    .frame .image {
+        position: absolute;
+        height: 146px;
+        top: 612px;
+        left: -11px;
+        width: 47%;
+        left: 42px;
+    }
+
+    .frame .rectangle-2 {
+        position: absolute;
+        width: 346px;
+        height: 67px;
+        top: 1px;
+        left: -356px;
+        background-color: #252525;
+        border-radius: 33.5px;
+    }
+
+    .frame .p {
+        position: absolute;
+        top: 9px;
+        left: -321px;
+        font-family: "Mulish-Regular", Helvetica;
+        font-weight: 400;
+        color: #ffffff;
+        font-size: 18px;
+        text-align: center;
+        letter-spacing: -0.99px;
+        line-height: 14.4px;
+        white-space: nowrap;
+    }
+
+    .frame .group-2 {
+        position: absolute;
+        width: 51px;
+        height: 46px;
+        top: 32px;
+        left: 372px;
+    }
+
+    .frame .element {
+        position: absolute;
+        width: 1080px;
+        height: 916px;
+        top: 439px;
+        left: -116px;
+        object-fit: cover;
+    }
+
+    .frame .rectangle-3 {
+        position: absolute;
+        width: 280px;
+        height: 67px;
+        top: 0;
+        left: -199px;
+        border-radius: 33.5px;
+        background: linear-gradient(180deg, rgb(169, 209, 55) 0%, rgb(67.32, 209, 55) 100%);
+    }
+
+    .frame .text-wrapper-4 {
+        position: absolute;
+        top: 27px;
+        left: -162px;
+        font-family: "TT Travels-DemiBold", Helvetica;
+        font-weight: 700;
+        color: #000000;
+        font-size: 18px;
+        text-align: center;
+        letter-spacing: -0.63px;
+        line-height: 14.4px;
+        white-space: nowrap;
+    }
+
+    .frame .text-wrapper {
+        position: absolute;
+        top: 566px;
+        left: 251px;
+        font-family: "TT Travels-Regular", Helvetica;
+        font-weight: 400;
+        color: #ffffff;
+        font-size: 24px;
+        text-align: center;
+        letter-spacing: -1.32px;
+        line-height: 19.2px;
+        white-space: nowrap;
+    }
+
+    .frame .text-wrapper-2 {
+        position: absolute;
+        top: 566px;
+        left: 343px;
+        font-family: "TT Travels-Regular", Helvetica;
+        font-weight: 400;
+        color: #ffffff;
+        font-size: 24px;
+        text-align: center;
+        letter-spacing: -1.32px;
+        line-height: 19.2px;
+        white-space: nowrap;
+    }
+
+    .frame .text-wrapper-3 {
+        position: absolute;
+        top: 566px;
+        left: 484px;
+        font-family: "TT Travels-Regular", Helvetica;
+        font-weight: 400;
+        color: #ffffff;
+        font-size: 24px;
+        text-align: center;
+        letter-spacing: -1.32px;
+        line-height: 19.2px;
+        white-space: nowrap;
+    }
+
+    .frame .rectangle-4 {
+        position: absolute;
+        width: 375px;
+        height: 499px;
+        top: 1052px;
+        left: 22px;
+        background-color: #e5e1f3;
+    }
+
+    .frame .element-2 {
+        position: absolute;
+        width: 400;
+        height: 500px;
+        top: 1039px;
+        left: 15px;
+        object-fit: cover;
+    }
+
+    .frame .rectangle-6 {
+        position: absolute;
+        width: 427px;
+        height: 499px;
+        top: 1128px;
+        left: 396px;
+        object-fit: cover;
+    }
+
+    .frame .home {
+        position: absolute;
+        width: 501px;
+        height: 521px;
+        top: 1262px;
+        left: 327px;
+        object-fit: cover;
+    }
+
+    .frame .rectangle-5 {
+        position: absolute;
+        width: 579px;
+        height: 472px;
+        top: 1584px;
+        left: -186px;
+        background-color: #c1bab0;
+    }
+
+    .frame .img-3 {
+        position: absolute;
+        width: 659px;
+        height: 688px;
+        top: 1649px;
+        left: -120px;
+        object-fit: cover;
+    }
+
+    .frame .img {
+        position: absolute;
+        width: 579px;
+        height: 658px;
+        top: 1654px;
+        left: 393px;
+        object-fit: cover;
+    }
+
+    .frame .home-2 {
+        position: absolute;
+        width: 363px;
+        height: 232px;
+        top: 1857px;
+        left: 399px;
+        object-fit: cover;
+    }
+
+    .frame .group {
+        position: absolute;
+        width: 885px;
+        height: 848px;
+        top: 2161px;
+        left: 9px;
+    }
+
+    .frame .image-2 {
+        position: absolute;
+        width: 666px;
+        height: 158px;
+        top: 2712px;
+        left: 61px;
+    }
+
+    .frame .rectangle-8 {
+        position: absolute;
+        width: 229px;
+        height: 356px;
+        top: 2716px;
+        left: 8px;
+        object-fit: cover;
+    }
+
+    .frame .rectangle-7 {
+        position: absolute;
+        width: 182px;
+        height: 293px;
+        top: 2862px;
+        left: 535px;
+        object-fit: cover;
+    }
+
+    .frame .element-3 {
+        position: absolute;
+        width: 759px;
+        top: 2885px;
+        left: 1px;
+        font-family: "TT Travels-Regular", Helvetica;
+        font-weight: 400;
+        color: #ffffff;
+        font-size: 18px;
+        text-align: center;
+        letter-spacing: -0.09px;
+        line-height: 27.7px;
+    }
+
+    .frame .div-wrapper {
+        position: absolute;
+        width: 293px;
+        height: 57px;
+        top: 3051px;
+        left: 222px;
+        border-radius: 33.5px;
+        background: linear-gradient(180deg, rgb(169, 209, 55) 0%, rgb(67.32, 209, 55) 100%);
+    }
+
+    .frame .rectangle-9 {
+        position: absolute;
+        width: 389px;
+        height: 561px;
+        top: -335px;
+        left: -57px;
+        object-fit: cover;
+    }
+
+    .frame .rectangle-10 {
+        position: absolute;
+        width: 370px;
+        height: 658px;
+        top: -473px;
+        left: -48px;
+    }
+
+    .frame .text-wrapper-12 {
+        position: absolute;
+        top: -364px;
+        left: 20px;
+        -webkit-text-stroke: 1px #000000;
+        font-family: "TT Travels-BoldItalic", Helvetica;
+        font-weight: 700;
+        font-style: italic;
+        color: transparent;
+        font-size: 96px;
+        text-align: center;
+        letter-spacing: -5.28px;
+        line-height: 76.8px;
+        white-space: nowrap;
+    }
+
+    .frame .text-wrapper-13 {
+        position: absolute;
+        top: -287px;
+        left: 1px;
+        font-family: "TT Travels-ExtraBoldItalic", Helvetica;
+        font-weight: 800;
+        font-style: italic;
+        color: #000000;
+        font-size: 96px;
+        text-align: center;
+        letter-spacing: -5.28px;
+        line-height: 76.8px;
+        white-space: nowrap;
+    }
+
+    .frame .text-wrapper-14 {
+        position: absolute;
+        top: -160px;
+        left: 7px;
+        font-family: "TT Travels-Regular", Helvetica;
+        font-weight: 400;
+        color: #000000b2;
+        font-size: 18px;
+        letter-spacing: -0.09px;
+        line-height: 27.7px;
+        white-space: nowrap;
+    }
+
+    .frame .text-wrapper-15 {
+        position: absolute;
+        top: -122px;
+        left: 7px;
+        font-family: "TT Travels-Regular", Helvetica;
+        font-weight: 400;
+        color: #000000b2;
+        font-size: 18px;
+        letter-spacing: -0.09px;
+        line-height: 27.7px;
+        white-space: nowrap;
+    }
+
+    .frame .text-wrapper-16 {
+        position: absolute;
+        top: -89px;
+        left: 7px;
+        font-family: "TT Travels-Regular", Helvetica;
+        font-weight: 400;
+        color: #000000b2;
+        font-size: 18px;
+        letter-spacing: -0.09px;
+        line-height: 27.7px;
+        white-space: nowrap;
+    }
+
+    .frame .text-wrapper-17 {
+        position: absolute;
+        top: -59px;
+        left: 7px;
+        font-family: "TT Travels-Regular", Helvetica;
+        font-weight: 400;
+        color: #000000b2;
+        font-size: 18px;
+        letter-spacing: -0.09px;
+        line-height: 27.7px;
+        white-space: nowrap;
+    }
+
+    .frame .text-wrapper-18 {
+        position: absolute;
+        top: -29px;
+        left: 7px;
+        font-family: "TT Travels-Regular", Helvetica;
+        font-weight: 400;
+        color: #000000b2;
+        font-size: 18px;
+        letter-spacing: -0.09px;
+        line-height: 27.7px;
+        white-space: nowrap;
+    }
+
+    .frame .text-wrapper-19 {
+        position: absolute;
+        top: -2px;
+        left: 7px;
+        font-family: "TT Travels-Regular", Helvetica;
+        font-weight: 400;
+        color: #000000b2;
+        font-size: 18px;
+        letter-spacing: -0.09px;
+        line-height: 27.7px;
+        white-space: nowrap;
+    }
+
+    .frame .text-wrapper-20 {
+        position: absolute;
+        top: 25px;
+        left: 7px;
+        font-family: "TT Travels-Regular", Helvetica;
+        font-weight: 400;
+        color: #000000b2;
+        font-size: 18px;
+        letter-spacing: -0.09px;
+        line-height: 27.7px;
+        white-space: nowrap;
+    }
+
+    .frame .rectangle-11 {
+        position: absolute;
+        width: 650px;
+        height: 350px;
+        top: -526px;
+        left: -329px;
+        object-fit: cover;
+    }
+
+    .frame .rectangle-12 {
+        position: absolute;
+        width: 357px;
+        height: 490px;
+        top: -648px;
+        left: -319px;
+    }
+
+    .frame .text-wrapper-23 {
+        position: absolute;
+        top: -359px;
+        left: -293px;
+        font-family: "TT Travels-Regular", Helvetica;
+        font-weight: 400;
+        color: #ffffff;
+        font-size: 18px;
+        letter-spacing: -0.09px;
+        line-height: 27.7px;
+        white-space: nowrap;
+    }
+
+    .frame .text-wrapper-11 {
+        position: absolute;
+        top: -165px;
+        left: -166px;
+        transform: rotate(42.2deg);
+        font-family: "Urban Starblues Demo-Regular", Helvetica;
+        font-weight: 400;
+        color: #1b1b1b;
+        font-size: 288px;
+        text-align: center;
+        letter-spacing: 14.4px;
+        line-height: 230.4px;
+        white-space: nowrap;
+    }
+
+    .frame .text-wrapper-21 {
+        position: absolute;
+        top: -510px;
+        left: -245px;
+        -webkit-text-stroke: 1px #ffffff;
+        font-family: "TT Travels-BoldItalic", Helvetica;
+        font-weight: 700;
+        font-style: italic;
+        color: transparent;
+        font-size: 96px;
+        text-align: center;
+        letter-spacing: -5.28px;
+        line-height: 76.8px;
+        white-space: nowrap;
+    }
+
+    .frame .text-wrapper-22 {
+        position: absolute;
+        top: -441px;
+        left: -316px;
+        font-family: "TT Travels-ExtraBoldItalic", Helvetica;
+        font-weight: 800;
+        font-style: italic;
+        color: #ffffff;
+        font-size: 96px;
+        text-align: center;
+        letter-spacing: -5.28px;
+        line-height: 76.8px;
+        white-space: nowrap;
+    }
+
+    .frame .text-wrapper-24 {
+        position: absolute;
+        top: -344px;
+        left: -311px;
+        font-family: "TT Travels-Regular", Helvetica;
+        font-weight: 400;
+        color: #ffffff;
+        font-size: 18px;
+        letter-spacing: -0.09px;
+        line-height: 27.7px;
+        white-space: nowrap;
+    }
+
+    .frame .text-wrapper-25 {
+        position: absolute;
+        top: -292px;
+        left: -293px;
+        font-family: "TT Travels-Regular", Helvetica;
+        font-weight: 400;
+        color: #ffffff;
+        font-size: 18px;
+        letter-spacing: -0.09px;
+        line-height: 27.7px;
+        white-space: nowrap;
+    }
+
+    .frame .text-wrapper-27 {
+        position: absolute;
+        top: 366px;
+        left: -11px;
+        font-family: "TT Travels-BoldItalic", Helvetica;
+        font-weight: 700;
+        font-style: italic;
+        color: #ffffff;
+        font-size: 96px;
+        text-align: center;
+        letter-spacing: -5.28px;
+        line-height: 76.8px;
+        white-space: nowrap;
+    }
+
+    .frame .ellipse-2 {
+        position: absolute;
+        width: 160px;
+        height: 161px;
+        top: 3695px;
+        left: 66px;
+        object-fit: cover;
+    }
+
+    .frame .ellipse-4 {
+        position: absolute;
+        width: 160px;
+        height: 161px;
+        top: 3695px;
+        left: 252px;
+        object-fit: cover;
+    }
+
+    .frame .ellipse-6 {
+        position: absolute;
+        width: 160px;
+        height: 160px;
+        top: 3695px;
+        left: 437px;
+        object-fit: cover;
+    }
+
+    .frame .ellipse-8 {
+        position: absolute;
+        width: 160px;
+        height: 160px;
+        top: 3695px;
+        left: 603px;
+        object-fit: cover;
+    }
+
+    .frame .ellipse-3 {
+        position: absolute;
+        width: 160px;
+        height: 160px;
+        top: 3877px;
+        left: 437px;
+        object-fit: cover;
+    }
+
+    .frame .ellipse-7 {
+        position: absolute;
+        width: 160px;
+        height: 160px;
+        top: 3877px;
+        left: 252px;
+        object-fit: cover;
+    }
+
+    .frame .ellipse-5 {
+        position: absolute;
+        width: 160px;
+        height: 160px;
+        top: 3877px;
+        left: 66px;
+        object-fit: cover;
+    }
+
+    .frame .ellipse-9 {
+        position: absolute;
+        width: 160px;
+        height: 160px;
+        top: 3877px;
+        left: 603px;
+        object-fit: cover;
+    }
+
+    .frame .div {
+        background-color: #121212;
+        width: 1440px;
+        height: 4200px;
+        position: relative;
+    }
+
+    .frame .overlap-5 {
+        position: absolute;
+        width: 1440px;
+        height: 965px;
+        top: 4149px;
+        left: 0;
+        background-color: #f2f1f6;
+    }
+
+    .frame .text-wrapper-30 {
+        position: absolute;
+        top: 40px;
+        left: 38px;
+        font-family: "TT Travels-Italic", Helvetica;
+        font-weight: 400;
+        font-style: italic;
+        color: #4a4a4a;
+        font-size: 18px;
+        letter-spacing: -0.09px;
+        line-height: 27.7px;
+        white-space: nowrap;
+    }
+
+    .frame .text-wrapper-31 {
+        position: absolute;
+        top: 40px;
+        left: 225px;
+        font-family: "TT Travels-Italic", Helvetica;
+        font-weight: 400;
+        font-style: italic;
+        color: #4a4a4a;
+        font-size: 18px;
+        letter-spacing: -0.09px;
+        line-height: 27.7px;
+        white-space: nowrap;
+    }
+
+    .frame .text-wrapper-28 {
+        position: absolute;
+        width: 1035px;
+        top: -70px;
+        left: -66px;
+        font-family: "TT Travels-BoldItalic", Helvetica;
+        font-weight: 700;
+        font-style: italic;
+        color: #aad554;
+        font-size: 70px;
+        letter-spacing: -7.92px;
+        line-height: 115.2px;
+    }
+
+    .frame .text-wrapper-29 {
+        position: absolute;
+        width: 374px;
+        top: -279px;
+        left: -97px;
+        font-family: "TT Travels-Italic", Helvetica;
+        font-weight: 400;
+        font-style: italic;
+        color: #4a4a4a;
+        font-size: 18px;
+        letter-spacing: -0.09px;
+        line-height: 27.7px;
+    }
+
+    .frame .group-4 {
+        position: absolute;
+        width: 342px;
+        height: 303px;
+        top: -46px;
+        left: -114px;
+    }
+
+    .frame .div-wrapper-2 {
+        width: 1440px;
+        height: 143px;
+        top: -1801px;
+        background-color: #121212;
+        position: absolute;
+        left: 0;
+    }
+
+    .frame .ellipse-10 {
+        position: absolute;
+        width: 44px;
+        height: 37px;
+        top: -1784px;
+        left: 10px;
+    }
+
+    .frame .img-4 {
+        position: absolute;
+        width: 559px;
+        height: 652px;
+        top: -36px;
+        left: 185px;
+    }
+
+    .frame .ic-baseline-mode-wrapper {
+        position: absolute;
+        width: 19px;
+        height: 19px;
+        top: 9px;
+        left: 542px;
+        border-radius: 9.5px;
+        border: 1px solid;
+        border-color: #a8cf36;
+    }
+
+    .frame .akar-icons-sun-fill-wrapper {
+        position: absolute;
+        width: 19px;
+        height: 19px;
+        top: 9px;
+        left: 565px;
+        background-color: #303030;
+        border-radius: 9.5px;
+    }
+
+    .frame .text-wrapper-8 {
+        position: absolute;
+        top: 35px;
+        left: 559px;
+        font-family: "Druk Wide-BoldItalic", Helvetica;
+        font-weight: 700;
+        font-style: italic;
+        color: #ffffff;
+        font-size: 14px;
+        letter-spacing: -0.77px;
+        line-height: 11.2px;
+        white-space: nowrap;
+    }
+
+    .frame .text-wrapper-9 {
+        position: absolute;
+        top: 35px;
+        left: 648px;
+        font-family: "Druk Wide-BoldItalic", Helvetica;
+        font-weight: 700;
+        font-style: italic;
+        color: #a8cf36;
+        font-size: 14px;
+        letter-spacing: -0.77px;
+        line-height: 11.2px;
+        white-space: nowrap;
+    }
+}
+
+@media screen and (max-width:480px) {
+    .frame .YUDAEV-BRANDING {
+        position: absolute;
+        top: 18px;
+        left: 34px;
+        font-family: "Druk Wide-Bold", Helvetica;
+        font-weight: 700;
+        color: transparent;
+        font-size: 10px;
+        letter-spacing: -0.77px;
+        line-height: 11.2px;
+        white-space: nowrap;
+    }
+
+    .frame .group-2 {
+        position: absolute;
+        width: 36px;
+        height: 31px;
+        top: 3px;
+        left: 225px;
+    }
+
+    .frame .ic-baseline-mode-wrapper {
+        position: absolute;
+        width: 19px;
+        height: 19px;
+        top: 40px;
+        left: 210px;
+        border-radius: 9.5px;
+        border: 1px solid;
+        border-color: #a8cf36;
+    }
+
+    .frame .akar-icons-sun-fill-wrapper {
+        position: absolute;
+        width: 19px;
+        height: 19px;
+        top: 40px;
+        left: 257px;
+        background-color: #303030;
+        border-radius: 9.5px;
+    }
+
+    .frame .text-wrapper-8 {
+        position: absolute;
+        top: 32px;
+        left: 324px;
+        font-family: "Druk Wide-BoldItalic", Helvetica;
+        font-weight: 700;
+        font-style: italic;
+        color: #ffffff;
+        font-size: 10px;
+        letter-spacing: -0.77px;
+        line-height: 11.2px;
+        white-space: nowrap;
+    }
+
+    .frame .text-wrapper-9 {
+        position: absolute;
+        top: 32px;
+        left: 388px;
+        font-family: "Druk Wide-BoldItalic", Helvetica;
+        font-weight: 700;
+        font-style: italic;
+        color: #a8cf36;
+        font-size: 10px;
+        letter-spacing: -0.77px;
+        line-height: 11.2px;
+        white-space: nowrap;
+    }
+
+    .frame .text-wrapper {
+        position: absolute;
+        top: 521px;
+        left: 140px;
+        font-family: "TT Travels-Regular", Helvetica;
+        font-weight: 400;
+        color: #ffffff;
+        font-size: 24px;
+        text-align: center;
+        letter-spacing: -1.32px;
+        line-height: 19.2px;
+        white-space: nowrap;
+    }
+
+    .frame .text-wrapper-2 {
+        position: absolute;
+        top: 521px;
+        left: 212px;
+        font-family: "TT Travels-Regular", Helvetica;
+        font-weight: 400;
+        color: #ffffff;
+        font-size: 24px;
+        text-align: center;
+        letter-spacing: -1.32px;
+        line-height: 19.2px;
+        white-space: nowrap;
+    }
+
+    .frame .text-wrapper-3 {
+        position: absolute;
+        top: 523px;
+        left: 329px;
+        font-family: "TT Travels-Regular", Helvetica;
+        font-weight: 400;
+        color: #ffffff;
+        font-size: 24px;
+        text-align: center;
+        letter-spacing: -1.32px;
+        line-height: 19.2px;
+        white-space: nowrap;
+    }
+
+    .frame .element {
+        position: absolute;
+        width: 1080px;
+        height: 916px;
+        top: 439px;
+        left: -277px;
+        object-fit: cover;
+    }
+
+    .frame .image {
+        position: absolute;
+        height: 96px;
+        top: 602px;
+        left: -11px;
+        width: 450px;
+        left: 20px;
+    }
+
+    .frame .rectangle-2 {
+        position: absolute;
+        width: 222px;
+        height: 62px;
+        top: -75px;
+        left: -427px;
+        background-color: #252525;
+        border-radius: 33.5px;
+    }
+
+    .frame .p {
+        position: absolute;
+        top: -70px;
+        left: -404px;
+        font-family: "Mulish-Regular", Helvetica;
+        font-weight: 400;
+        color: #ffffff;
+        font-size: 18px;
+        text-align: center;
+        letter-spacing: -0.99px;
+        line-height: 14.4px;
+        white-space: nowrap;
+    }
+
+    .frame .rectangle-3 {
+        position: absolute;
+        width: 229px;
+        height: 67px;
+        top: -75px;
+        left: -244px;
+        border-radius: 33.5px;
+        background: linear-gradient(180deg, rgb(169, 209, 55) 0%, rgb(67.32, 209, 55) 100%);
+    }
+
+    .frame .text-wrapper-4 {
+        position: absolute;
+        top: -49px;
+        left: -226px;
+        font-family: "TT Travels-DemiBold", Helvetica;
+        font-weight: 700;
+        color: #000000;
+        font-size: 18px;
+        text-align: center;
+        letter-spacing: -0.63px;
+        line-height: 14.4px;
+        white-space: nowrap;
+    }
+
+    .frame .rectangle-4 {
+        position: absolute;
+        width: 240px;
+        height: 338px;
+        top: 1052px;
+        left: 0px;
+        background-color: #e5e1f3;
+    }
+
+    .frame .element-2 {
+        position: absolute;
+        width: 282px;
+        height: 333px;
+        top: 1039px;
+        left: -19px;
+        object-fit: cover;
+    }
+
+    .frame .rectangle-6 {
+        position: absolute;
+        width: 240px;
+        height: 338px;
+        top: 1101px;
+        left: 244px;
+        object-fit: cover;
+    }
+
+    .frame .home {
+        position: absolute;
+        width: 273px;
+        height: 338px;
+        top: 1201px;
+        left: 221px;
+        object-fit: cover;
+    }
+
+    .frame .rectangle-5 {
+        position: absolute;
+        width: 426px;
+        height: 298px;
+        top: 1425px;
+        left: -186px;
+        background-color: #c1bab0;
+    }
+
+    .frame .img-3 {
+        position: absolute;
+        width: 359px;
+        height: 404px;
+        top: 1492px;
+        left: -44px;
+        object-fit: cover;
+    }
+
+    .frame .img {
+        position: absolute;
+        width: 228px;
+        height: 316px;
+        top: 1482px;
+        left: 246px;
+        object-fit: cover;
+    }
+
+    .frame .home-2 {
+        position: absolute;
+        width: 209px;
+        height: 131px;
+        top: 1596px;
+        left: 261px;
+        object-fit: cover;
+    }
+
+    .frame .group {
+        position: absolute;
+        width: 537px;
+        height: 554px;
+        top: 1619px;
+        left: 9px;
+    }
+
+    .frame .rectangle-8 {
+        position: absolute;
+        width: 146px;
+        height: 227px;
+        top: 2180px;
+        left: 8px;
+        object-fit: cover;
+    }
+
+    .frame .image-2 {
+        position: absolute;
+        width: 386px;
+        height: 87px;
+        top: 2122px;
+        left: 49px;
+    }
+
+    .frame .element-3 {
+        position: absolute;
+        width: 427px;
+        top: 2224px;
+        left: 36px;
+        font-family: "TT Travels-Regular", Helvetica;
+        font-weight: 400;
+        color: #ffffff;
+        font-size: 18px;
+        text-align: center;
+        letter-spacing: -0.09px;
+        line-height: 27.7px;
+    }
+
+    .frame .rectangle-7 {
+        position: absolute;
+        width: 146px;
+        height: 226px;
+        top: 2131px;
+        left: 322px;
+        object-fit: cover;
+    }
+
+    .frame .div-wrapper {
+        position: absolute;
+        width: 293px;
+        height: 57px;
+        top: 2476px;
+        left: 93px;
+        border-radius: 33.5px;
+        background: linear-gradient(180deg, rgb(169, 209, 55) 0%, rgb(67.32, 209, 55) 100%);
+    }
+
+    .frame .rectangle-9 {
+        position: absolute;
+        width: 240px;
+        height: 311px;
+        top: -1031px;
+        left: -57px;
+        object-fit: cover;
+    }
+
+    .frame .rectangle-10 {
+        position: absolute;
+        width: 235px;
+        height: 321px;
+        top: -1072px;
+        left: -54px;
+    }
+
+    .frame .text-wrapper-12 {
+        position: absolute;
+        top: -1080px;
+        left: -4px;
+        -webkit-text-stroke: 1px #000000;
+        font-family: "TT Travels-BoldItalic", Helvetica;
+        font-weight: 700;
+        font-style: italic;
+        color: transparent;
+        font-size: 50px;
+        text-align: center;
+        letter-spacing: -5.28px;
+        line-height: 76.8px;
+        white-space: nowrap;
+    }
+
+    .frame .text-wrapper-13 {
+        position: absolute;
+        top: -1040px;
+        left: -33px;
+        font-family: "TT Travels-ExtraBoldItalic", Helvetica;
+        font-weight: 800;
+        font-style: italic;
+        color: #000000;
+        font-size: 50px;
+        text-align: center;
+        letter-spacing: -5.28px;
+        line-height: 76.8px;
+        white-space: nowrap;
+    }
+
+    .frame .text-wrapper-15 {
+        position: absolute;
+        top: -949px;
+        left: -30px;
+        font-family: "TT Travels-Regular", Helvetica;
+        font-weight: 400;
+        color: #000000b2;
+        font-size: 18px;
+        letter-spacing: -0.09px;
+        line-height: 27.7px;
+        white-space: nowrap;
+    }
+
+    .frame .text-wrapper-14 {
+        position: absolute;
+        top: -973px;
+        left: -30px;
+        font-family: "TT Travels-Regular", Helvetica;
+        font-weight: 400;
+        color: #000000b2;
+        font-size: 18px;
+        letter-spacing: -0.09px;
+        line-height: 27.7px;
+        white-space: nowrap;
+    }
+
+    .frame .text-wrapper-16 {
+        position: absolute;
+        top: -923px;
+        left: -32px;
+        font-family: "TT Travels-Regular", Helvetica;
+        font-weight: 400;
+        color: #000000b2;
+        font-size: 18px;
+        letter-spacing: -0.09px;
+        line-height: 27.7px;
+        white-space: nowrap;
+    }
+
+    .frame .text-wrapper-17 {
+        position: absolute;
+        top: -901px;
+        left: -30px;
+        font-family: "TT Travels-Regular", Helvetica;
+        font-weight: 400;
+        color: #000000b2;
+        font-size: 18px;
+        letter-spacing: -0.09px;
+        line-height: 27.7px;
+        white-space: nowrap;
+    }
+
+    .frame .text-wrapper-18 {
+        position: absolute;
+        top: -880px;
+        left: -30px;
+        font-family: "TT Travels-Regular", Helvetica;
+        font-weight: 400;
+        color: #000000b2;
+        font-size: 18px;
+        letter-spacing: -0.09px;
+        line-height: 27.7px;
+        white-space: nowrap;
+    }
+
+    .frame .text-wrapper-19 {
+        position: absolute;
+        top: -857px;
+        left: -30px;
+        font-family: "TT Travels-Regular", Helvetica;
+        font-weight: 400;
+        color: #000000b2;
+        font-size: 18px;
+        letter-spacing: -0.09px;
+        line-height: 27.7px;
+        white-space: nowrap;
+    }
+
+    .frame .text-wrapper-20 {
+        position: absolute;
+        top: -832px;
+        left: -30px;
+        font-family: "TT Travels-Regular", Helvetica;
+        font-weight: 400;
+        color: #000000b2;
+        font-size: 18px;
+        letter-spacing: -0.09px;
+        line-height: 27.7px;
+        white-space: nowrap;
+    }
+
+    .frame .rectangle-11 {
+        position: absolute;
+        width: 240px;
+        height: 215px;
+        top: -1067px;
+        left: -479px;
+        object-fit: cover;
+    }
+
+    .frame .rectangle-12 {
+        position: absolute;
+        width: 769px;
+        height: 236px;
+        top: -1100px;
+        left: -747px;
+    }
+
+    .frame .text-wrapper-21 {
+        position: absolute;
+        top: -1113px;
+        left: -420px;
+        -webkit-text-stroke: 1px #ffffff;
+        font-family: "TT Travels-BoldItalic", Helvetica;
+        font-weight: 700;
+        font-style: italic;
+        color: transparent;
+        font-size: 50px;
+        text-align: center;
+        letter-spacing: -5.28px;
+        line-height: 76.8px;
+        white-space: nowrap;
+    }
+
+    .frame .text-wrapper-22 {
+        position: absolute;
+        top: -1075px;
+        left: -453px;
+        font-family: "TT Travels-ExtraBoldItalic", Helvetica;
+        font-weight: 800;
+        font-style: italic;
+        color: #ffffff;
+        font-size: 50px;
+        text-align: center;
+        letter-spacing: -5.28px;
+        line-height: 76.8px;
+        white-space: nowrap;
+    }
+
+    .frame .text-wrapper-23 {
+        position: absolute;
+        top: -988px;
+        left: -468px;
+        font-family: "TT Travels-Regular", Helvetica;
+        font-weight: 400;
+        color: #ffffff;
+        font-size: 18px;
+        letter-spacing: -0.09px;
+        line-height: 27.7px;
+        white-space: nowrap;
+    }
+
+    .frame .text-wrapper-24 {
+        position: absolute;
+        top: -976px;
+        left: -468px;
+        font-family: "TT Travels-Regular", Helvetica;
+        font-weight: 400;
+        color: #ffffff;
+        font-size: 11px;
+        letter-spacing: -0.09px;
+        line-height: 27.7px;
+        white-space: nowrap;
+    }
+
+    .frame .text-wrapper-25 {
+        position: absolute;
+        top: -946px;
+        left: -467px;
+        font-family: "TT Travels-Regular", Helvetica;
+        font-weight: 400;
+        color: #ffffff;
+        font-size: 12px;
+        letter-spacing: -0.09px;
+        line-height: 27.7px;
+        white-space: nowrap;
+    }
+
+    .frame .text-wrapper-26 {
+        position: absolute;
+        top: -925px;
+        left: -466px;
+        font-family: "TT Travels-Regular", Helvetica;
+        font-weight: 400;
+        color: #ffffff;
+        font-size: 12px;
+        letter-spacing: -0.09px;
+        line-height: 27.7px;
+        white-space: nowrap;
+    }
+
+    .frame .text-wrapper-11 {
+        position: absolute;
+        top: -823px;
+        left: 59px;
+        transform: rotate(42.2deg);
+        font-family: "Urban Starblues Demo-Regular", Helvetica;
+        font-weight: 400;
+        color: #1b1b1b;
+        font-size: 100px;
+        text-align: center;
+        letter-spacing: 14.4px;
+        line-height: 230.4px;
+        white-space: nowrap;
+    }
+
+    .frame .text-wrapper-27 {
+        position: absolute;
+        top: -544px;
+        left: -22px;
+        font-family: "TT Travels-BoldItalic", Helvetica;
+        font-weight: 700;
+        font-style: italic;
+        color: #ffffff;
+        font-size: 50px;
+        text-align: center;
+        letter-spacing: -5.28px;
+        line-height: 76.8px;
+        white-space: nowrap;
+    }
+
+    .frame .ellipse-2 {
+        position: absolute;
+        width: 160px;
+        height: 161px;
+        top: 2778px;
+        left: 53px;
+        object-fit: cover;
+    }
+
+    .frame .ellipse-3 {
+        position: absolute;
+        width: 160px;
+        height: 160px;
+        top: 2971px;
+        left: 275px;
+        object-fit: cover;
+    }
+
+    .frame .ellipse-4 {
+        position: absolute;
+        width: 160px;
+        height: 161px;
+        top: 2778px;
+        left: 275px;
+        object-fit: cover;
+    }
+
+    .frame .ellipse-5 {
+        position: absolute;
+        width: 160px;
+        height: 160px;
+        top: 2971px;
+        left: 53px;
+        object-fit: cover;
+    }
+
+    .frame .ellipse-6 {
+        position: absolute;
+        width: 160px;
+        height: 160px;
+        top: 3172px;
+        left: 53px;
+        object-fit: cover;
+    }
+
+    .frame .ellipse-7 {
+        position: absolute;
+        width: 160px;
+        height: 160px;
+        top: 3359px;
+        left: 275px;
+        object-fit: cover;
+    }
+
+    .frame .ellipse-8 {
+        position: absolute;
+        width: 160px;
+        height: 160px;
+        top: 3172px;
+        left: 275px;
+        object-fit: cover;
+    }
+
+    .frame .ellipse-9 {
+        position: absolute;
+        width: 160px;
+        height: 160px;
+        top: 3359px;
+        left: 53px;
+        object-fit: cover;
+    }
+
+    .frame .text-wrapper-28 {
+        position: absolute;
+        width: 1035px;
+        top: -101px;
+        left: -105px;
+        font-family: "TT Travels-BoldItalic", Helvetica;
+        font-weight: 700;
+        font-style: italic;
+        color: #aad554;
+        font-size: 50px;
+        letter-spacing: -7.92px;
+        line-height: 115.2px;
+    }
+
+    .frame .img-4 {
+        position: absolute;
+        width: 559px;
+        height: 652px;
+        top: -36px;
+        left: -90px;
+    }
+
+    .frame .text-wrapper-29 {
+        position: absolute;
+        width: 374px;
+        top: -235px;
+        left: -97px;
+        font-family: "TT Travels-Italic", Helvetica;
+        font-weight: 400;
+        font-style: italic;
+        color: #4a4a4a;
+        font-size: 18px;
+        letter-spacing: -0.09px;
+        line-height: 27.7px;
+    }
+
+    .frame .text-wrapper-27 {
+        position: absolute;
+        top: -544px;
+        left: -22px;
+        font-family: "TT Travels-BoldItalic", Helvetica;
+        font-weight: 700;
+        font-style: italic;
+        color: #ffffff;
+        font-size: 50px;
+        text-align: center;
+        letter-spacing: -5.28px;
+        line-height: 76.8px;
+        white-space: nowrap;
+    }
+
+    .frame .ellipse-2 {
+        position: absolute;
+        width: 160px;
+        height: 161px;
+        top: 2778px;
+        left: 53px;
+        object-fit: cover;
+    }
+
+    .frame .ellipse-3 {
+        position: absolute;
+        width: 160px;
+        height: 160px;
+        top: 2971px;
+        left: 275px;
+        object-fit: cover;
+    }
+
+    .frame .ellipse-4 {
+        position: absolute;
+        width: 160px;
+        height: 161px;
+        top: 2778px;
+        left: 275px;
+        object-fit: cover;
+    }
+
+    .frame .ellipse-5 {
+        position: absolute;
+        width: 160px;
+        height: 160px;
+        top: 2971px;
+        left: 53px;
+        object-fit: cover;
+    }
+
+    .frame .ellipse-6 {
+        position: absolute;
+        width: 160px;
+        height: 160px;
+        top: 3172px;
+        left: 53px;
+        object-fit: cover;
+    }
+
+    .frame .ellipse-7 {
+        position: absolute;
+        width: 160px;
+        height: 160px;
+        top: 3359px;
+        left: 275px;
+        object-fit: cover;
+    }
+
+    .frame .ellipse-8 {
+        position: absolute;
+        width: 160px;
+        height: 160px;
+        top: 3172px;
+        left: 275px;
+        object-fit: cover;
+    }
+
+    .frame .ellipse-9 {
+        position: absolute;
+        width: 160px;
+        height: 160px;
+        top: 3359px;
+        left: 53px;
+        object-fit: cover;
+    }
+
+    .frame .div-wrapper-2 {
+        width: 484px;
+        height: 223px;
+        top: 50px;
+        background-color: #121212;
+        position: absolute;
+        left: 0;
+    }
+
+    .frame .text-wrapper-32 {
+        position: absolute;
+        top: 32px;
+        left: 30px;
+        font-family: "Druk Wide-BoldItalic", Helvetica;
+        font-weight: 700;
+        font-style: italic;
+        color: #242424;
+        font-size: 35px;
+        letter-spacing: -5.28px;
+        line-height: 76.8px;
+        white-space: nowrap;
+    }
+
+    .frame .ellipse-10 {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        top: 80px;
+        left: -76px;
+    }
+
+    .frame .text-wrapper-34 {
+        position: absolute;
+        top: 250px;
+        left: 7px;
+        font-family: "TT Travels-BoldItalic", Helvetica;
+        font-weight: 700;
+        font-style: italic;
+        color: #7d7d7d;
+        font-size: 14px;
+        letter-spacing: -0.77px;
+        line-height: 11.2px;
+        white-space: nowrap;
+    }
+    
+    .frame .text-wrapper-33 {
+        position: absolute;
+        top: 250px;
+        left: 265px;
+        font-family: "TT Travels-BoldItalic", Helvetica;
+        font-weight: 700;
+        font-style: italic;
+        color: #7d7d7d;
+        font-size: 14px;
+        letter-spacing: -0.77px;
+        line-height: 11.2px;
+        white-space: nowrap;
+    }
+    
+    .frame .text-wrapper-35 {
+        position: absolute;
+        top: 250px;
+        left: 199px;
+        font-family: "TT Travels-BoldItalic", Helvetica;
+        font-weight: 700;
+        font-style: italic;
+        color: #7d7d7d;
+        font-size: 14px;
+        letter-spacing: -0.77px;
+        line-height: 11.2px;
+        white-space: nowrap;
+    }
+    
+    .frame .text-wrapper-36 {
+        position: absolute;
+        top: 250px;
+        left: 365px;
+        font-family: "TT Travels-BoldItalic", Helvetica;
+        font-weight: 700;
+        font-style: italic;
+        color: #7d7d7d;
+        font-size: 14px;
+        letter-spacing: -0.77px;
+        line-height: 11.2px;
+        white-space: nowrap;
+    }
+
+    .frame .overlap-wrapper {
+        position: absolute;
+        width: 1440px;
+        height: 143px;
+        top: 4842px;
+        left: 0;
+    }
+}

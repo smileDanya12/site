@@ -1,0 +1,27 @@
+:root {
+    --gilroy-16-px-16-px-medium-font-family: "Gilroy-Medium", Helvetica;
+    --gilroy-16-px-16-px-medium-font-weight: 500;
+    --gilroy-16-px-16-px-medium-font-size: 16px;
+    --gilroy-16-px-16-px-medium-letter-spacing: 0px;
+    --gilroy-16-px-16-px-medium-line-height: 110.00000238418579%;
+    --gilroy-16-px-16-px-medium-font-style: normal;
+    --TT-80-px-80-px-medium-font-family: "TTTravels-Medium", Helvetica;
+    --TT-80-px-80-px-medium-font-weight: 500;
+    --TT-80-px-80-px-medium-font-size: 80px;
+    --TT-80-px-80-px-medium-letter-spacing: -4px;
+    --TT-80-px-80-px-medium-line-height: 110.00000238418579%;
+    --TT-80-px-80-px-medium-font-style: normal;
+    --druk-wide-16-px-14-px-medium-font-family: "DrukWide Cy TT Medium-Regular", Helvetica;
+    --druk-wide-16-px-14-px-medium-font-weight: 400;
+    --druk-wide-16-px-14-px-medium-font-size: 16px;
+    --druk-wide-16-px-14-px-medium-letter-spacing: -0.16px;
+    --druk-wide-16-px-14-px-medium-line-height: 110.00000238418579%;
+    --druk-wide-16-px-14-px-medium-font-style: normal;
+    --druk-wide-60-px-60-px-medium-font-family: "DrukWide Cy TT Medium-Regular", Helvetica;
+    --druk-wide-60-px-60-px-medium-font-weight: 400;
+    --druk-wide-60-px-60-px-medium-font-size: 60px;
+    --druk-wide-60-px-60-px-medium-letter-spacing: -1.2px;
+    --druk-wide-60-px-60-px-medium-line-height: 110.00000238418579%;
+    --druk-wide-60-px-60-px-medium-font-style: normal;
+  }
+  
